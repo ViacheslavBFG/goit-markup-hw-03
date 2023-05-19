@@ -5,6 +5,10 @@
      background-color: #FFFFFF;
  }
 
+ img{
+    display: block;
+ }
+
  :root {
      --button-bg-color: #F4F4FD;
      --portfolio-header-color: #2e2f42;
