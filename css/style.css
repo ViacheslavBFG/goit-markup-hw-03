@@ -79,7 +79,7 @@ img {
     letter-spacing: 0.03em;
     text-transform: uppercase;
     color: var(--header-logo-main);
-    padding-right: 76px;
+    margin-right: 76px;
     padding-left: 156px;
 }
 
