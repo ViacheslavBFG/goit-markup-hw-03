@@ -293,7 +293,8 @@ ol {
 .header-container {
     display: flex;
     align-items: center;
-    
+    padding-top: 24px;
+    padding-top: 24px;
 }
 
 
