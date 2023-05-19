@@ -51,7 +51,7 @@ img {
 
 .header-address {
     font-style: normal;
-    margin-left:auto;
+    margin-left: auto;
 }
 
 .headre-adress-link {
@@ -61,13 +61,13 @@ img {
     letter-spacing: 0.02em;
     color: var(--headre-adress-link);
     font-family: 'Roboto';
-    
+
 }
 
 .headre-adress-link:hover,
 .headre-adress-link:focus {
     color: var(--header-link-hf);
- 
+
 
 }
 
@@ -286,33 +286,32 @@ ol {
     padding-left: 15px;
     padding-right: 15px;
     margin: 0 auto;
-    
+
 }
 
 
-.header-container{
+.header-container {
     display: flex;
     align-items: center;
 }
 
 
-.header-navigation{
+.header-navigation {
     display: flex;
     align-items: center;
-    
-}
-
-
-.header-list{
-    display: flex;
-    align-items: center;
-    gap:40px;
     padding: 24px 0;
 }
 
 
-.address-list{
+.header-list {
     display: flex;
-    gap:40px;
+    align-items: center;
+    gap: 40px;
+
 }
 
+
+.address-list {
+    display: flex;
+    gap: 40px;
+}
