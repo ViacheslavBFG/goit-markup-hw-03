@@ -208,6 +208,7 @@ img {
 .team-item {
     background-color: var(--header-background);
     width: calc((100% - 72px) / 4);
+    border-radius: 0px 0px 4px 4px;
 }
 
 
@@ -368,8 +369,8 @@ ol {
     width: calc((100% - 48px) / 3);
 }
 
-.team-list{
-display: flex;
-gap:24px;
+.team-list {
+    display: flex;
+    gap: 24px;
 
 }
