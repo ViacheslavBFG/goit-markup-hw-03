@@ -303,7 +303,7 @@ ol {
 .header-container {
     display: flex;
     align-items: center;
-  
+
 }
 
 
@@ -327,29 +327,39 @@ ol {
     gap: 40px;
 }
 
-.skill{
-    padding: 120px 0 ;
+.skill {
+    padding: 120px 0;
 
 }
 
 
-.skill-list{
-display: flex;
-gap:24px;
+.skill-list {
+    display: flex;
+    gap: 24px;
 }
 
 
-.skill-item{
+.skill-item {
 
     width: calc((100% - 72px) / 4);
 
 }
 
 
-.activities{
+.activities {
 
     padding-bottom: 120px;
 
 }
 
+.activities-list {
 
+    display: flex;
+    gap: 24px;
+
+}
+
+.activities-item {
+
+    width: calc((100% - 48px) / 3);
+}
