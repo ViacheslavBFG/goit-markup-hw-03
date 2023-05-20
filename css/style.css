@@ -83,6 +83,8 @@ img {
     color: var(--header-logo-main);
     margin-right: 76px;
     padding-left: 156px;
+    display: inline-block;
+    margin-bottom: 16px;
 }
 
 .header-logo-color {
@@ -219,6 +221,7 @@ img {
 
 .footer {
     background: var(--portfolio-header-color);
+    padding: 100px 0;
 
 }
 
