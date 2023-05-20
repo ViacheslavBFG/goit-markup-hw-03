@@ -392,3 +392,10 @@ ol {
 
     padding: 96px 0 120px;
 }
+
+.portfolio-list{
+display: flex;
+gap: 24px;
+margin-bottom: 72px;
+
+}
