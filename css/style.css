@@ -382,8 +382,13 @@ ol {
 
 }
 
-.team-box{
+.team-box {
 
-padding: 32px 16px;
+    padding: 32px 16px;
 
+}
+
+.portfolio {
+
+    padding: 96px 0 120pxж
 }
