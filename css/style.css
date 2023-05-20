@@ -93,6 +93,7 @@ img {
 
 .hero {
     background: var(--portfolio-header-color);
+    padding: 188px 0;
 }
 
 .hero-greetings {
