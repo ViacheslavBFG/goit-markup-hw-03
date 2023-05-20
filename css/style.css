@@ -160,6 +160,7 @@ img {
     letter-spacing: 0.02em;
     text-transform: capitalize;
     color: var(--portfolio-header-color);
+    margin-bottom: 72px;
 }
 
 /* Section 4 */
@@ -350,3 +351,5 @@ gap:24px;
     padding-bottom: 120px;
 
 }
+
+
