@@ -324,3 +324,14 @@ ol {
     display: flex;
     gap: 40px;
 }
+
+.skill{
+    padding: 120px 0 ;
+
+}
+
+
+.skill-list{
+display: flex;
+gap:24px;
+}
