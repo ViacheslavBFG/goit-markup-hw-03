@@ -433,3 +433,7 @@ ol {
     border-top: none;
 
 }
+
+.hidden-wow-body{
+    visibility: hidden;
+}
