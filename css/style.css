@@ -83,9 +83,8 @@ img {
     text-transform: uppercase;
     color: var(--header-logo-main);
     margin-right: 76px;
-    padding-left: 156px;
     display: inline-block;
-    margin-bottom: 16px;
+
 }
 
 .header-logo-color {
